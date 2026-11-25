@@ -1,0 +1,12 @@
+{
+  "name": "dark-login-ci-cd",
+  "version": "1.0.0",
+  "description": "Dark login page deployed using GitHub Actions and AWS Elastic Beanstalk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
